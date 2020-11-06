@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Jorge
-Frontend web developer since 2016, working hand in hand with react js
+### Hi there 👋, CONSOLE.LOG("My name is jorge")
+
+### Frontend web developer since 2016, working hand in hand with react js
 
 
 Skills: REACT / JS / HTML / CSS
