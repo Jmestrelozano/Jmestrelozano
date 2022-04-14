@@ -4,7 +4,7 @@
   <img src="https://camo.githubusercontent.com/af294ac6128143eb9e5d50ad3000623978355e38/68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966" width=1200>
   <br><br>
   <samp>
-   I am Jorge Mestre, I am currently a seventh semester student at the university @uninunez 🏫 and I am currently a frontend developer💻. and interested in working in the world of web development and learning about new technologies
+  Development in React Native and React
 
   </samp>
 </p>
