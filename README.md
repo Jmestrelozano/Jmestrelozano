@@ -10,7 +10,7 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width=60> | <img src="https://www.desarrollosnea.com/images/technology/redux.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width=60> | <img src="https://www.desarrollosnea.com/images/technology/redux.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width=60> 
 |:---:|:---:|:---:|
 
 
@@ -19,7 +19,7 @@
 |:---:|:---:|
 
 ### Connect with me :smiley:
-<a href="https://twitter.com/mestre_lozano">
+<a href="https://www.linkedin.com/in/jorge-mestre-lozano-ba48b2154/">
   <img align="left" alt="mestre lozano Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
