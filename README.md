@@ -1,7 +1,7 @@
 ## Hello :wave: Devs, 
 
 <p align="center">
-  <img src="[https://camo.githubusercontent.com/af294ac6128143eb9e5d50ad3000623978355e38/68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966](https://media.licdn.com/dms/image/D4E16AQGBcQXJyJ93ng/profile-displaybackgroundimage-shrink_350_1400/0/1686686701781?e=1703721600&v=beta&t=zS0wdFtHyK47kdbNUZ7IF89zL9aPaJwQlFxVoASssPE)" width=1200>
+  <img src="https://media.licdn.com/dms/image/D4E16AQGBcQXJyJ93ng/profile-displaybackgroundimage-shrink_350_1400/0/1686686701781?e=1703721600&v=beta&t=zS0wdFtHyK47kdbNUZ7IF89zL9aPaJwQlFxVoASssPE" width=1200>
   <br><br>
   <samp>
   Frontend Developer
